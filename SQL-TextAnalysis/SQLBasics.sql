@@ -1,6 +1,6 @@
 --UW Assignment2
 --load reuters.db with table: frequency(docid, term, count)
-
+--$ sqlite3 reuters.db SQLBasics.sql
 
 /* (a) select: 
  * Write a query that is equivalent to the following relational algebra expression.
